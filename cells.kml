@@ -1,0 +1,45 @@
+<kml>
+  <Folder>
+    <name>8UMTSCell</name>
+    <Placemark>
+      <name>1 - 8UMTSCell</name>
+      <Point>
+        <coordinates>
+          9.30432853250172,47.4071763050456,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2 - 8UMTSCell</name>
+      <Point>
+        <coordinates>
+          9.30555233227247,47.4068754035018,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3 - 8UMTSCell</name>
+      <Point>
+        <coordinates>
+          9.3049634995552,47.4081583834326,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4 - 8UMTSCell</name>
+      <Point>
+        <coordinates>
+          9.30681440633217,47.4084459483641,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5 - 8UMTSCell</name>
+      <Point>
+        <coordinates>
+          9.30930012034559,47.4078251030227,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</kml>
